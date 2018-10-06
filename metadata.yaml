@@ -39,5 +39,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Conquest of the River Plate (1535-1555)
 url: http://www.gutenberg.org/ebooks/48058
